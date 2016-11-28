@@ -1,0 +1,31 @@
+/* add your CSS here */
+
+img {
+	width: 300px;
+	border: solid 1px silver;
+	margin-bottom: 10px;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+#main {
+	width: 300px;
+	padding: 10px;
+	border: solid 1px silver;
+}
+
+#information {
+	border: solid 1px silver;
+	padding: 10px;
+}
+
+.fact {
+	font-style: italic;
+}
+
+.label {
+	font-weight: bold;
+}
